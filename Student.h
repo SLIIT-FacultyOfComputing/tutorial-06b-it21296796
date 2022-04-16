@@ -6,7 +6,7 @@ class Student {
   //    int studentId
   //    name <- 20 charcters
     public : 
-      void assignDetails() ;
+      void assignDetails(int no , char name[]) ;
       void display() ;
   // public section
   //    assignDetails() method declaration
